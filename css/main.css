@@ -1247,7 +1247,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #37faff;
+  background: #52cfe7;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2624,7 +2624,7 @@ ul.breadcrumb li + li:last-child {
   padding: 0;
 }
 body {
-  background: url("/images/bgN.png");
+  background: url("/images/bgNN.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
