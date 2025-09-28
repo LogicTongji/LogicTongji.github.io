@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>K3[Fe(CN)6]&#39;s Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-09-28T09:51:33.292Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>K3[Fe(CN)6]</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>论人工智能的游戏性</title>
+    <link href="http://example.com/2025/09/26/postName/"/>
+    <id>http://example.com/2025/09/26/postName/</id>
+    <published>2025-09-26T06:14:40.358Z</published>
+    <updated>2025-09-28T09:51:33.292Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="杂项" scheme="http://example.com/tags/%E6%9D%82%E9%A1%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>晓月轻拂</title>
+    <link href="http://example.com/2025/09/26/mylove/"/>
+    <id>http://example.com/2025/09/26/mylove/</id>
+    <published>2025-09-26T06:14:40.000Z</published>
+    <updated>2025-09-28T09:44:11.340Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;四年前的四月，空气中弥漫着北风刚散去的冷峻，斜下的夕阳准确无误地穿透过一扇扇窗户映射在那几张书桌上。单薄的校服大衣藏不紧我的萧瑟，抖动的笔尖带不出几行脑海的明媚。&lt;br&gt;“给，听说你腿疼没去跑操，这是我专门买给你的哦。”&lt;br&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好</title>
+    <link href="http://example.com/2025/09/26/hello-world/"/>
+    <id>http://example.com/2025/09/26/hello-world/</id>
+    <published>2025-09-26T05:56:02.715Z</published>
+    <updated>2025-09-28T00:16:58.316Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;
+            &lt;i class=&quot;fa fa-quote-left&quot;&gt;&lt;/i&gt;
+            &lt;p&gt;本页为github驱动的个人博客，欢迎来访&lt;/p&gt;
+
+            &lt;i class=&quot;fa fa-quote-right&quot;&gt;&lt;/i&gt;
+          &lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
